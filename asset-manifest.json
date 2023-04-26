@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.052e26d6.css",
+    "main.js": "/static/js/main.9f50aa48.js",
+    "static/media/bank-removebg-preview.png": "/static/media/bank-removebg-preview.e574213b3fd79e80c73e.png",
+    "index.html": "/index.html",
+    "main.052e26d6.css.map": "/static/css/main.052e26d6.css.map",
+    "main.9f50aa48.js.map": "/static/js/main.9f50aa48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052e26d6.css",
+    "static/js/main.9f50aa48.js"
+  ]
+}
